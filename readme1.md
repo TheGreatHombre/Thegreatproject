@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Canard NFT</title>
+    <title>NFT Collection</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap" rel="stylesheet">
@@ -16,7 +16,7 @@
 <body>
     <section class="loading"></section>
     <section class="hero">
-        <div class="logo">Canard Club NFT</div>
+        <div class="logo">Canard Club</div>
         <div class="socials">
             <ul>
                 <li>
@@ -40,7 +40,7 @@
             <div>
                 <h1>Welcome to the <span class="red">Canard Club</span></h1>
                 <p>The number 1 NFT project that helps "Canard" like us to settle and earn with our investments</p>
-                <a href="https://opensea.io/collection/canardclubnft" target="_blank">
+                <a href="https://opensea.io/collection/canardclubtest" target="_blank">
                     <button class="btn">See on OpenSea</button>
                 </a>
             </div>
@@ -52,7 +52,7 @@
     <section class="discord">
         <div class="container">
             <h2 data-aos="zoom-in">Mint <span class="red">your Canard</span></h2>
-            <a href="https://www.launchmynft.io/collections/0xf1C2727ea1f25Fea8b80798023b25ECB241d9A52/PZkjvhYrfexuMz5ZKuXr" target="_blank" data-aos="zoom-in-up"><button class="btn">Here !</button></a>
+            <a href="Page2/Page2.html" target="_blank" data-aos="zoom-in-up"><button class="btn">Here !</button></a>
         </div>
     </section>
     <div class="roadmap">
@@ -61,29 +61,29 @@
             <div class="line"></div>
             <div class="bloc" data-aos="zoom-in">
                 <div class="number">1</div>
-                <h4>Create landing page</h4>
-                <p>Coming soon ...</p>
+                <h4>Launch Roadmap</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum a repellendus nemo minus alias officia culpa ab. Eveniet esse repudiandae quisquam, necessitatibus iure, voluptatum ullam reiciendis molestias commodi, minima nemo.</p>
             </div>
             <div class="bloc" data-aos="zoom-in">
                 <div class="number">2</div>
-                <h4>link landing page to mint page</h4>
-                <p>Coming soon ...</p>
+                <h4>Launch Presale</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum a repellendus nemo minus alias officia culpa ab. Eveniet esse repudiandae quisquam, necessitatibus iure, voluptatum ullam reiciendis molestias commodi, minima nemo.</p>
             </div>
             <div class="bloc" data-aos="zoom-in">
                 <div class="number off">3</div>
-                <h4>Create a native minting page on website</h4>
-                <p>Coming soon ...</p>
+                <h4>Mint the remaining NFTs on OpenSea</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum a repellendus nemo minus alias officia culpa ab. Eveniet esse repudiandae quisquam, necessitatibus iure, voluptatum ullam reiciendis molestias commodi, minima nemo.</p>
             </div>
             <div class="bloc" data-aos="zoom-in">
                 <div class="number off">4</div>
-                <h4>Create a only owners website</h4>
-                <p>Coming soon ...</p>
+                <h4>Mint the remaining NFTs on OpenSea</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum a repellendus nemo minus alias officia culpa ab. Eveniet esse repudiandae quisquam, necessitatibus iure, voluptatum ullam reiciendis molestias commodi, minima nemo.</p>
             </div>
 
             <div class="bloc" data-aos="zoom-in">
                 <div class="number off">5</div>
-                <h4>Launch the CanardCoin $COINCOIN</h4>
-                <p>Coming soon ...</p>
+                <h4>Coming soon ....</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum a repellendus nemo minus alias officia culpa ab. Eveniet esse repudiandae quisquam, necessitatibus iure, voluptatum ullam reiciendis molestias commodi, minima nemo.</p>
             </div>
         </div>
     </div>
@@ -114,8 +114,8 @@
                 </div>
                 <div class="footerD">
                     <ul>
-                        <li><a href="#"> Coming soon ...</a></li>
-                        <li><a href="#">Coming soon ...</a></li>
+                        <li><a href="#"> TEST</a></li>
+                        <li><a href="#">Link TEST</a></li>
                     </ul>
                 </div>
             </div>
